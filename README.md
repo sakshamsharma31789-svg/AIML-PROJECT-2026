@@ -22,4 +22,8 @@ Change or the data according to your data.
 
 INSTRUCTION FOR TESTING:
 Make sure the data fed into the project should be correct in order to nullify any chances of wrong priority check.
+
+SCREENSHOT: THE BELOW IS AN REPRESENTATION OF HOW THE PRIORITY LIST IS DISPLAYED
+<img width="1510" height="346" alt="Screenshot 2026-03-30 182823" src="https://github.com/user-attachments/assets/e0631332-4aeb-4d65-a2d4-8b78f1bbe482" />
+
                      
