@@ -1,6 +1,6 @@
 # AIML-PROJECT-2026
             
-                     TRIAGE-AI:SMART PATIENT PRIORITY CHEKCER
+                     TRIAGE-AI:SMART PATIENT PRIORITY CHECKER
 ===
 
 Triage-AI is an intelligent Probelm Solving Agent which is designed for emergency wards of the hospital. In medical environment , due to high inflow of patients the "First Come , First Served' methodolgy is inefficient. This project implements Utility Based Agent that calculates a real time priority score for patients based on sympthoms like current condition , severity of case , age in order to ensure that the patient with higher severity is treated first .
